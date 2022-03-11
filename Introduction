@@ -1,3 +1,4 @@
 1. Create Multiple objects from single class.
 2.  Attributes of an object.
 3. Each Object has different attributes or properties like colour, weight, etc..
+4. Methods: Function that manipulates the attirbutes of an object.
