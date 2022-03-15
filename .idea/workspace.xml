@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a946a98-8b32-44de-83a4-ed9847a17d7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +13,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
         <option value="Python Stub" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
